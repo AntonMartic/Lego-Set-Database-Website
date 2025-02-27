@@ -40,4 +40,9 @@ Figma (Wireframing), XAMPP, phpMyAdmin, Git
 4. **Access**  
    Visit `http://localhost/Lego-Set-Database-Website`
 
-## 🏗 Project Structure / Projektstruktur
+## 👥 Team
+- **[@AntonMartic](https://github.com/AntonMartic)**
+- **[@WilhelmSelestam](https://github.com/WilhelmSelestam)**
+- **[@ericoo12](https://github.com/ericoo12)**
+- **[@albinwill3](https://github.com/albinwill3)** 
+
